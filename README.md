@@ -46,7 +46,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 ```
-## CAPTURA DE PANTALLA
+## Capturas de Pantalla
 
 ![Captura 1](img/1.png)
 ![Captura 2](img/2.png)
