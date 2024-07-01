@@ -47,10 +47,11 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 ```
 ## CAPTURA DE PANTALLA
-(img/1.png)
-(img/2.png)
-(img/3.png)
-(img/4.png)
-(img/5.png)
-(img/6.png)
-(img/7.png)
+
+![Captura 1](img/1.png)
+![Captura 2](img/2.png)
+![Captura 3](img/3.png)
+![Captura 4](img/4.png)
+![Captura 5](img/5.png)
+![Captura 6](img/6.png)
+![Captura 7](img/7.png)
