@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una solución al desafío planteado por Literalura. El objetivo del proyecto es desarrollar una aplicación web utilizando Spring Boot y PostgreSQL que permita [describir brevemente el propósito del proyecto].
+Este proyecto es una solución al desafío planteado por Literalura. El objetivo del proyecto es desarrollar una aplicación web utilizando Spring Boot y PostgreSQL que permita consumir una api de https://gutendex.com/  guardar el json exitosamente en una base de datos con hibernate y despues poder consultar la base de datos.
 
 ## Tabla de Contenidos
 
